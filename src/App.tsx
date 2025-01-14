@@ -14,12 +14,12 @@ export default function App() {
       icon: <Menu className="h-6 w-6" />,
       description: '生成基于记分板的雪球菜单命令',
     },
-    {
-      id: 'model-converter',
-      name: '模型转换器',
-      icon: <FileJson className="h-6 w-6" />,
-      description: '将JSON模型文件转换为OBJ格式',
-    },
+    //{
+      //id: 'model-converter',
+      //name: '模型转换器',
+      //icon: <FileJson className="h-6 w-6" />,
+      //description: '将JSON模型文件转换为OBJ格式',
+    //},
     {
       id: 'skin-head-generator',
       name: '皮肤头像生成器',
